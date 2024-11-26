@@ -17,7 +17,7 @@
     }, 
     "plants": [
         {
-            "ID":"",
+            "id":"",
             "broken": [2],
             "maintenance": [6],
             "limitation": "320"
@@ -31,7 +31,7 @@
         "motors_impact": "null"
     },
     "impact": {
-        "total_hours": "",
+        "total_hours": "null",
         "max": "1161",
         "max_hour": "2040"
     }
