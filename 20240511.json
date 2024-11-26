@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240511",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/11/une-preven-afectacion-de-739-mw-durante-el-horario-pico-nocturno-de-este-sabado/", 
+    "prediction": {
+        "availability": "2481",  
+        "demand_max": "3150",
+        "impact": "739",
+        "deficit": "669",
+        "backup": ""
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "1966", 
+        "demand": "2600", 
+        "deficit": "557" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [2],
+            "maintenance": [5],
+            "limitation": "382"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "307",
+        "combustible_problem": "True",
+        "snips_with_problems": "39",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1394",
+        "max_hour": "2010"
+    }
+}

@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240515",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/15/se-pronostica-una-afectacion-de-980-mw-en-el-horario-pico-de-este-miercoles/", 
+    "prediction": {
+        "availability": "2340",  
+        "demand_max": "3250",
+        "impact": "980",
+        "deficit": "910",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "1960", 
+        "demand": "2610", 
+        "deficit": "688" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [4],
+            "maintenance": [4],
+            "limitation": "313"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "274",
+        "combustible_problem": "True",
+        "snips_with_problems": "35",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1322",
+        "max_hour": "2240"
+    }
+}

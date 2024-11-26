@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240516",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/16/union-electrica-estima-una-afectacion-de-mas-de-900-mw-en-toda-la-jornada-de-este-16-de-mayo/", 
+    "prediction": {
+        "availability": "2489",  
+        "demand_max": "3400",
+        "impact": "981",
+        "deficit": "911",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2240", 
+        "demand": "2720", 
+        "deficit": "583" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [2],
+            "maintenance": [3],
+            "limitation": "483"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "317",
+        "combustible_problem": "True",
+        "snips_with_problems": "43",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1393",
+        "max_hour": "2040"
+    }
+}

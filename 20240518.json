@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240518",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/18/la-union-electrica-pronostica-una-afectacion-de-1-170-mw-para-el-horario-pico-nocturno/", 
+    "prediction": {
+        "availability": "2200",  
+        "demand_max": "3300",
+        "impact": "1170",
+        "deficit": "1100",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "1990", 
+        "demand": "2760", 
+        "deficit": "787" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [4],
+            "maintenance": [3],
+            "limitation": "463"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "384",
+        "combustible_problem": "True",
+        "snips_with_problems": "51",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1474",
+        "max_hour": "2040"
+    }
+}

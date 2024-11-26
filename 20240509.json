@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "2024509",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/09/deficit-de-mas-de-1000-mw-en-horario-pico-nocturno-de-este-jueves-informa-la-union-electrica/", 
+    "prediction": {
+        "availability": "2210",  
+        "demand_max": "3150",
+        "impact": "1010",
+        "deficit": "940",
+        "backup": ""
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "1970", 
+        "demand": "2450", 
+        "deficit": "500" 
+    }, 
+    "plants": [
+        {
+            "ID":"",
+            "broken": [1],
+            "maintenance": [5],
+            "limitation": "413"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "338",
+        "combustible_problem": "True",
+        "snips_with_problems": "38",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1268",
+        "max_hour": "2050"
+    }
+}

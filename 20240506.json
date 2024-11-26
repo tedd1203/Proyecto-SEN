@@ -1,0 +1,38 @@
+
+    "zones_with_problems":["null"] 
+    "date": "20240506",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/06/une-pronostica-afectacion-de-881-mw-durante-pico-nocturno-de-este-lunes/", 
+    "prediction": {
+        "availability": "2 139 ",  
+        "demand_max": "2950",
+        "impact": "881",
+        "deficit": "811",
+        "backup": ""
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2039", 
+        "demand": "2250", 
+        "deficit": "250" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [3],
+            "maintenance": [3],
+            "limitation": "442"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "268",
+        "combustible_problem": "True",
+        "snips_with_problems": "27",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "",
+        "max": "746",
+        "max_hour": "0830"
+    }
+}

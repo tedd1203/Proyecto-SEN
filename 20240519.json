@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240519",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/19/une-preve-afectacion-maxima-de-900-mw-en-horario-diurno-y-de-985-mw-en-pico-nocturno-este-domingo/", 
+    "prediction": {
+        "availability": "2440",  
+        "demand_max": "3350",
+        "impact": "985",
+        "deficit": "910",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "2200", 
+        "demand": "2670", 
+        "deficit": "540" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [3],
+            "maintenance": [3],
+            "limitation": "378"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "360",
+        "combustible_problem": "True",
+        "snips_with_problems": "48",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "2400",
+        "max": "1045",
+        "max_hour": "2050"
+    }
+}

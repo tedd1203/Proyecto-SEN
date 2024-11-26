@@ -1,0 +1,38 @@
+
+    "zones_with_problems": ["null"], 
+    "date": "20240517",
+    "url": "http://www.cubadebate.cu/noticias/2024/05/17/une-preve-afectaciones-por-deficit-de-capacidad-de-generacion-durante-toda-la-jornada-este-viernes-2/", 
+    "prediction": {
+        "availability": "2150",  
+        "demand_max": "3380",
+        "impact": "1300",
+        "deficit": "1230",
+        "backup": "null"
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": "1940", 
+        "demand": "2840", 
+        "deficit": "894" 
+    }, 
+    "plants": [
+        {
+            "ID":"",
+            "broken": [6],
+            "maintenance": [3],
+            "limitation": "333"
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "null",
+        "total_impact": "398",
+        "combustible_problem": "True",
+        "snips_with_problems": "57",
+        "motors_impact": "null"
+    },
+    "impact": {
+        "total_hours": "null",
+        "max": "1309",
+        "max_hour": "2050"
+    }
+}
