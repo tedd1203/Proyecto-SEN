@@ -17,7 +17,7 @@
     }, 
     "plants": [
         {
-            "ID":"",
+            "id":"",
             "broken": [6],
             "maintenance": [3],
             "limitation": "333"
