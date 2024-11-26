@@ -7,7 +7,7 @@
         "demand_max": "3100",
         "impact": "750",
         "deficit": "680",
-        "backup": ""
+        "backup": "null"
     },
     "morning_info": {
         "time": "0700", 
