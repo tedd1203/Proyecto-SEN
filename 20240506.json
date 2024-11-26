@@ -7,7 +7,7 @@
         "demand_max": "2950",
         "impact": "881",
         "deficit": "811",
-        "backup": ""
+        "backup": "null"
     },
     "morning_info": {
         "time": "0700", 
@@ -31,7 +31,7 @@
         "motors_impact": "null"
     },
     "impact": {
-        "total_hours": "",
+        "total_hours": "null",
         "max": "746",
         "max_hour": "0830"
     }
